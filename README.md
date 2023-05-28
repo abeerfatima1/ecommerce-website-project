@@ -1,2 +1,2 @@
 # ecommerce-website-project
-creating markeyplace
+creating market place
