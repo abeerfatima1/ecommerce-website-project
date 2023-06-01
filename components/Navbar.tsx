@@ -16,7 +16,7 @@ const Navbar = () => {
       {/* Navigation Menu */}
       <ul className="flex space-x-4">
         <li>
-          <button className="nav-button">Men</button>
+          <button className="nav-button">Men 1 2 3</button>
         </li>
         <li>
           <button className="nav-button">Women</button>
